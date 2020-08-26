@@ -1,4 +1,4 @@
-// Link: https://www.codewars.com/kata/55466989aeecab5aac00003e/train/go
+// Problem link: https://www.codewars.com/kata/55466989aeecab5aac00003e/train/go
 
 package kata
 
